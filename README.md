@@ -1,28 +1,6 @@
-Here's a comprehensive **README.md** template for your Supply Chain Smart Contract project, covering all essential aspects:
-
-```markdown
 # Supply Chain Smart Contract Project
 
-![Solidity](https://img.shields.io/badge/Solidity-0.8.21-blue?logo=solidity)
-![Truffle](https://img.shields.io/badge/Truffle-5.11.5-orange)
-![Ganache](https://img.shields.io/badge/Ganache-7.9.1-green)
-
 A decentralized supply chain management system built on Ethereum blockchain using Solidity.
-
-## 📋 Table of Contents
-- [Features](#-features)
-- [Tech Stack](#-tech-stack)
-- [Prerequisites](#-prerequisites)
-- [Installation](#-installation)
-- [Project Setup](#-project-setup)
-- [Development Workflow](#-development-workflow)
-- [Testing](#-testing)
-- [Deployment](#-deployment)
-- [Interacting with Contracts](#-interacting-with-contracts)
-- [Folder Structure](#-folder-structure)
-- [Troubleshooting](#-troubleshooting)
-- [Contributing](#-contributing)
-- [License](#-license)
 
 ## 🌟 Features
 - Product tracking through supply chain stages
