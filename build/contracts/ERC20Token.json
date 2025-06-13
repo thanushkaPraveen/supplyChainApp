@@ -13189,12 +13189,12 @@
     "5777": {
       "events": {},
       "links": {},
-      "address": "0x983a5F07eA9170Eec1052C6e180F306eb46D1BDc",
-      "transactionHash": "0x816bf7c7dfeb2b593c582158220169be58c942cfb4e967d6d80d17a4f6ab0f90"
+      "address": "0xf4502830755a2021F2EF04bB80bEa2aFa0881E3F",
+      "transactionHash": "0x6cef3e346c1ccd68e7783ed705745161e835d99d5b187bdef13e926b9b1b77b4"
     }
   },
   "schemaVersion": "3.4.16",
-  "updatedAt": "2025-05-16T22:23:10.327Z",
+  "updatedAt": "2025-06-13T06:14:16.154Z",
   "networkType": "ethereum",
   "devdoc": {
     "kind": "dev",
